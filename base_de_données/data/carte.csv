@@ -1,0 +1,45 @@
+Id_Boisson	Nom	Type	Prix	Degre	Quantite
+0	Mojito	Cocktail	6.0		20.0
+1	Spritz	Cocktail	6.0		20.0
+2	Cocktail du moment	Cocktail	6.0		20.0
+3	Tequila sunrise	Cocktail	6.0		20.0
+4	Kir sauvignon	Aperitif	3.0		12.0
+5	Kir petillant	Aperitif	3.5		12.0
+6	Martini	Aperitif	4.0		5.0
+7	Porto	Aperitif	3.5		5.0
+8	Ricard	Aperitif	3.5		2.0
+9	Grant’s	Whiskey	5.5		4.0
+10	Monkey Shoulder	Whiskey	5.5		4.0
+11	Nikka	Whiskey	7.5		4.0
+12	Jack Daniel’s	Whiskey	6.5		4.0
+13	Trois rivières	Rhum	5.5		4.0
+14	Bacardi	Rhum	5.5		4.0
+15	Pacto navio	Rhum	7.5		4.0
+16	Diplomatico	Rhum	6.5		4.0
+17	Kraken	Rhum	6.5		4.0
+18	Mort subite	Biere	6.5	6.0	37.5
+19	Barbar	Biere	6.0	8.0	33.0
+20	Cuvée des Trolls	Biere	5.0	7.0	25.0
+21	Chouffe	Biere	6.0	8.0	33.0
+22	Kastel Bier triple	Biere	5.5	11.0	33.0
+23	kastel Bier rouge	Biere	6.0	8.0	33.0
+24	Dremmwel rousse	Biere	5.5	6.0	33.0
+25	Blanche Hermine IPA	Biere	5.5	5.6	33.0
+26	Arsouille	Biere	6.0	7.0	33.0
+27	Triple Buse	Biere	6.0	9.0	33.0
+28	Vieille Canaille	Biere	6.0	8.0	33.0
+29	Blonde pression	Biere	4.5	4.5	50.0
+30	Sauvignon	Vin	2.8		12.0
+31	Chardonnay	Vin	3.0		12.0
+32	Quincy	Vin	4.0		12.0
+33	Moelleux Bordeaux	Vin	3.5		12.0
+34	Costa Serena	Vin	2.8		12.0
+35	Languedoc Gris Blanc	Vin	3.5		12.0
+36	Puisseguin St-Emilion	Vin	3.5		12.0
+37	Chilien Merlot	Vin	2.8		12.0
+38	Espagnol Campo Viejo	Vin	3.5		12.0
+39	Coteaux du Languedoc	Vin	4.5		12.0
+40	Jus de Fruit	Soft	2.9		20.0
+41	Soda	Soft	2.9		33.0
+42	Sirop à l’eau	Soft	2.0		25.0
+43	Bouteille d’eau	Soft	3.6		75.0
